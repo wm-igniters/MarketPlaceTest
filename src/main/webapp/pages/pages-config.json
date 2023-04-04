@@ -1,7 +1,9 @@
-[
-  {
-    "name": "Main",
-    "type": "PAGE",
-    "params" : [ ]
-  }
-]
+[ {
+  "name" : "Main",
+  "type" : "PAGE",
+  "params" : [ ]
+}, {
+  "name" : "MergeTest",
+  "type" : "PARTIAL",
+  "params" : [ ]
+} ]
